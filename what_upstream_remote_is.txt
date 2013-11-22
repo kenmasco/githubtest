@@ -1,3 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
-
 The upstream remote is usually used for fetching data from the original owner of a forked repo. This insures that your version of the forked repo has the latest code available. This is an especially useful action to perform prior to submitting a Pull Request on GitHub.
