@@ -1,3 +1,1 @@
-Explain what a branch is, in your own words
-
 A git branch is a parrallel version of a piece of code. This allows you to "branch-off" from a master version to allow you to (for example) develop new features or patch bugs, leaving the master version untouched/live. Once new features being developed on a branch have been tested, they can then be merged to the master branch.
