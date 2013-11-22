@@ -1,1 +1,3 @@
+Explain what git clone does, in your own words
+
 Git Clone allows you to clone a repositary from GitHub to allow you to carry out development work on your local machine. Git Clone could be used on your repo (e.g in the event of data loss), or when forking a repo from another GitHub user.
